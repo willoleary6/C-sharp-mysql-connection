@@ -1,0 +1,12 @@
+C:\SourceCode\C_sharp_test\C_sharp_test\bin\Debug\C_sharp_test.exe.config
+C:\SourceCode\C_sharp_test\C_sharp_test\bin\Debug\C_sharp_test.exe
+C:\SourceCode\C_sharp_test\C_sharp_test\bin\Debug\C_sharp_test.pdb
+C:\SourceCode\C_sharp_test\C_sharp_test\obj\Debug\C_sharp_test.csprojAssemblyReference.cache
+C:\SourceCode\C_sharp_test\C_sharp_test\obj\Debug\C_sharp_test.csproj.CoreCompileInputs.cache
+C:\SourceCode\C_sharp_test\C_sharp_test\obj\Debug\C_sharp_test.exe
+C:\SourceCode\C_sharp_test\C_sharp_test\obj\Debug\C_sharp_test.pdb
+C:\SourceCode\C_sharp_test\C_sharp_test\bin\Debug\Google.Protobuf.dll
+C:\SourceCode\C_sharp_test\C_sharp_test\bin\Debug\MySql.Data.dll
+C:\SourceCode\C_sharp_test\C_sharp_test\bin\Debug\Google.Protobuf.xml
+C:\SourceCode\C_sharp_test\C_sharp_test\bin\Debug\MySql.Data.xml
+C:\SourceCode\C_sharp_test\C_sharp_test\obj\Debug\C_sharp_test.csproj.CopyComplete
